@@ -6,6 +6,4 @@ This is a simple program written in C, which will accept a series of parameters 
 
 ####*Ncurses library*
 
-If using Ubuntu, for example... 
-
-**sudo apt-get install libncurses5-dev**
+Ubuntu: **sudo apt-get install libncurses5-dev**
