@@ -13,11 +13,8 @@ TARGET=Countsimple
 _DEPS =
 DEPS = $(patsubst %,$(INCDIR)/%,$(_DEPS)) 
 
-
 _OBJS = countsimple.o
 OBJS = $(patsubst %,$(OBJDIR)/%,$(_OBJS))
-
-
 
 
 
